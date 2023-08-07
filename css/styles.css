@@ -3,7 +3,7 @@ body {
     justify-content: center;
     align-items: center;
     font-family: "Open Sans", sans-serif;
-    color: #20175d;
+    color: #1e20a0;
   }
   
   .container {
@@ -56,12 +56,12 @@ body {
     width: 100%;
   }
   
-  .all-pets {
+  .pets {
     padding: 0;
     list-style: none;
   }
   
-  .all-pets li {
+  .pets li {
     padding: 1em;
   }
   
@@ -70,7 +70,8 @@ body {
     font-weight: bold;
     text-transform: uppercase;
     color: #fff;
-    padding: 4px;
+    padding: 2px;
+    margin-bottom: 40px;
   }
   
   .ruby {
